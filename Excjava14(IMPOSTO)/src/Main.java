@@ -7,11 +7,7 @@ public class Main {
 		System.out.println("Calculo de imposto de renda\n");
 		
 		System.out.println("Tabela exemplo\n");
-		System.out.println("Renda------------------------ Imposto\n"
-				+ "de R$0,00 à R$2000,00 ------- 0%\n"
-				+ "de R$2000,01 à R$3000,00 ---- 8%\n"
-				+ "de R$3000,01 à R$4500,00 ---- 18%\n"
-				+ "acima de R$4500,00 ---------- 28%\n");
+		System.out.println("Renda------------------------ Imposto\nde R$0,00 à R$2000,00 ------- 0%\nde R$2000,01 à R$3000,00 ---- 8%\nde R$3000,01 à R$4500,00 ---- 18%\nacima de R$4500,00 ---------- 28%\n");
 		
 		double salario, imposto;
 		
